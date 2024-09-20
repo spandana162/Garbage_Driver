@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1026663892486",
+    "project_id": "garbage-driver-app",
+    "storage_bucket": "garbage-driver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026663892486:android:f34365976787d318c32587",
+        "android_client_info": {
+          "package_name": "com.example.garbage_collector_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaSu5fLzxuh55yd8PnLtcoslJp4TMzc3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026663892486:android:6d7977c6acd2f75ec32587",
+        "android_client_info": {
+          "package_name": "com.robotvinay.garbage_collector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaSu5fLzxuh55yd8PnLtcoslJp4TMzc3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026663892486:android:a4ce147998519591c32587",
+        "android_client_info": {
+          "package_name": "com.robotvinay.garbage_collector_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaSu5fLzxuh55yd8PnLtcoslJp4TMzc3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
